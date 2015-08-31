@@ -1,3 +1,18 @@
+# Malick.lingana.org
+Bienvenu sur le depot de mon site. ce site est construit dans le cadre du Mooc AfriqueInnovation.  
+L'objectif c'est de ce familiariser avec le developpement web responsif avec Bootstrap.
+À cet effet, le site utilise un thème bootstrap de base denommé [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) dont vous trouverez plus d'informations ci-dessous.  
+
+## Comment consulter le site?  
+Il faut telecharger le depot et ouvrir le fichier index.html qui s'y trouve avec votre navigateur web preferé.  
+Mon cv est accessible dans le menu "Mon CV".
+
+## Prochaine étape  
+Je vous parlerez de tout ce projet sur mon gist que vous trouverez dans le lien suivant: [Mooc Gist](https://gist.github.com/lingani)
+Merci!
+
+
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
 [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
